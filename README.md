@@ -1,5 +1,5 @@
 # iOS_Tips系列效果预览图
-> iOS的一些示例，不定时更新~ 主工程在 https://github.com/wsl2ls/iOS_Tips  
+> iOS的一些示例，不定时更新~ 代码主工程在 https://github.com/wsl2ls/iOS_Tips  
 
 ### 目录 
 > 1、暗黑模式  
